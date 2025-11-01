@@ -57,9 +57,4 @@ Stored marks of the students in Marks Table can be checked here.
 
 In this one, the overview of fee structure is provided.
 
-# About
-<img width="696" alt="about" src="https://github.com/Jay1105/University-Management/assets/75968475/7d3506f7-9138-49a1-b1cf-b397e479adb6">
-
-This about page provides information about the developer of this project.
-
 #### So this sums up SVKM Management System project created with Java, Swing and MySQL.
